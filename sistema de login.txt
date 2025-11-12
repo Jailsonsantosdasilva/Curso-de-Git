@@ -1,1 +1,3 @@
 sistema teste
+digite sua senha
+digite sua idade
